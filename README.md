@@ -9,6 +9,22 @@ A curated list of awesome tools for Geobiology Modeling.
 [Thermodynamics](#thermodynamics)
 - [CHNOSZ](#-chnosz)
 - [pyCHNOSZ](#-pychnosz)
+- [DBCreate](#-dbcreate)
+- [DEWPython](#-dewpython)
+- [EQ3/6](#-eq36)
+- [GWB](#-gwb)
+- [PHREEQC](#-phreeqc)
+- [PhreePlot](#-phreeplot)
+- [tidyphreeqc](#-tidyphreeqc)
+- [SupPHREEQC](#-supphreeqc)
+- [PhreeqPy](#-phreeqpy)
+- [PHREESQL](#-phreesql)
+- [PourPy](#-pourpy)
+- [pyEQL](#-pyeql)
+- [pyGeochemCalc](#-pygeochemcalc)
+- [Reaktoro](#-reaktoro)
+- [SUPCRT92](#-supcrt92)
+- [SUPCRTBL](#-supcrtbl)
 
 # Geosciences
 ### 🟩 cgeniepy
@@ -46,22 +62,20 @@ A curated list of awesome tools for Geobiology Modeling.
 
 [![manual](https://img.shields.io/badge/manual-EQ3/6-orange.svg)](https://inis.iaea.org/collection/NCLCollectionStore/_Public/24/046/24046895.pdf)
 
-
-
-
 ### 🟩 GWB
 
-### 🟩 PhreePlot
-
-[![manual](https://img.shields.io/badge/manual-PhreePlot-orange.svg)](http://www.phreeplot.org/PhreePlot.pdf)
-
-[`PhreePlot`](http://phreeplot.org/)
 
 ### 🟩 PHREEQC
 
 [![manual](https://img.shields.io/badge/manual-PHREEQC-orange.svg)](https://pubs.usgs.gov/tm/06/a43/pdf/tm6-A43.pdf)
 
 [`PHREEQC`](https://www.usgs.gov/software/phreeqc-version-3)
+
+### 🟩 PhreePlot
+
+[![manual](https://img.shields.io/badge/manual-PhreePlot-orange.svg)](http://www.phreeplot.org/PhreePlot.pdf)
+
+[`PhreePlot`](http://phreeplot.org/)
 
 ### 🟩 tidyphreeqc
 

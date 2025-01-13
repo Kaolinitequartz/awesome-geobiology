@@ -4,6 +4,10 @@
 
 A curated list of awesome tools for Geobiology Modeling.
 
+# Table of Contents
+
+# Thermodynamics
+
 
 
 
@@ -13,8 +17,8 @@ A curated list of awesome tools for Geobiology Modeling.
 
 [`cgeniepy`](https://cgeniepy.readthedocs.io/en/latest/index.html#) is a Python package which provides a handful of tools in Python for dealing with the cGENIE model outputs, similar to the existing MATLAB scripts.
 
-
-## CHNOSZ
+# Thermodynamics
+- ## CHNOSZ
 
 [![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-blue.svg)](https://doi.org/10.3389/feart.2019.00180)
 

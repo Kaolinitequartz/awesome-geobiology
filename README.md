@@ -5,6 +5,7 @@ A curated list of awesome tools for Geobiology Modeling.
 # Table of Contents
 [Geosciences](#geosciences)
 - [cgeniepy](#-cgeniepy)
+
 [Thermodynamics](#thermodynamics)
 - [CHNOSZ](#-chnosz)
 - [pyCHNOSZ](#-pychnosz)
@@ -25,6 +26,11 @@ A curated list of awesome tools for Geobiology Modeling.
 [`CHNOSZ`](https://chnosz.net/)
 
 ### 🟩 pyCHNOSZ
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11406142.svg)](https://doi.org/10.5281/zenodo.11406142)
+
+[`pyCHNOSZ`](https://github.com/worm-portal/pyCHNOSZ/)
+
 
 ### 🟩 DBCreate
 

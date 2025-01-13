@@ -1,12 +1,8 @@
 # Awesome Geobiology Modeling Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-
 A curated list of awesome tools for Geobiology Modeling.
 
 # Table of Contents
-
-# Thermodynamics
 [Thermodynamics](#thermodynamics)
 
 
@@ -24,3 +20,37 @@ A curated list of awesome tools for Geobiology Modeling.
 [![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-blue.svg)](https://doi.org/10.3389/feart.2019.00180)
 
 [`CHNOSZ`](https://chnosz.net/)
+
+### pyCHNOSZ
+
+### DBCreate
+
+### DEWPython
+
+### EQ3/6
+
+### GWB
+
+### PhreePlot
+
+### PHREEQC
+
+### tidyphreeqc
+
+### SupPHREEQC
+
+### PhreeqPy
+
+### PHREESQL
+
+### PourPy
+
+### pyEQL
+
+### pyGeochemCalc
+
+### Reaktoro
+
+### SUPCRT92
+
+### SUPCRTBL

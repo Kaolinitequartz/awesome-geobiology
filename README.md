@@ -8,13 +8,14 @@ A curated list of awesome tools for Geobiology Modeling.
 
 
 
-`cgeniepy`
+## cgeniepy
 
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.06762/status.svg)](https://doi.org/10.21105/joss.06762)
+
 [`cgeniepy`](https://cgeniepy.readthedocs.io/en/latest/index.html#)
 
 
-`CHNOSZ`
+## CHNOSZ
 
 
 [`CHNOSZ`](https://chnosz.net/)

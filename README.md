@@ -20,9 +20,5 @@ A curated list of awesome tools for Geobiology Modeling.
 [`CHNOSZ`](https://chnosz.net/)
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.3389/feart.2019.00180.svg)](https://doi.org/10.3389/feart.2019.00180)
-
-
-
-[![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-brightgreen.svg)](https://doi.org/10.3389/feart.2019.00180)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-blue.svg)](https://doi.org/10.3389/feart.2019.00180)
 

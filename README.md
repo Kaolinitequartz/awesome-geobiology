@@ -17,9 +17,6 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ## CHNOSZ
 
-
-[`CHNOSZ`](https://chnosz.net/)
-
-
 [![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-blue.svg)](https://doi.org/10.3389/feart.2019.00180)
 
+[`CHNOSZ`](https://chnosz.net/)

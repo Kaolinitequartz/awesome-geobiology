@@ -13,7 +13,6 @@ A curated list of awesome tools for Geobiology Modeling.
 # Geosciences
 ### 🟩 cgeniepy
 
-[![DOI](https://joss.theoj.org/papers/10.21105/joss.06762/status.svg)](https://doi.org/10.21105/joss.06762)
 [![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06762-blue.svg)](https://joss.theoj.org/papers/10.21105/joss.06762)
 
 

@@ -3,11 +3,14 @@
 A curated list of awesome tools for Geobiology Modeling.
 
 # Table of Contents
+[Geosciences](#geosciences)
+- [cgeniepy](#-cgeniepy)
 [Thermodynamics](#thermodynamics)
+- [CHNOSZ](#-chnosz)
+- [pyCHNOSZ](#-pychnosz)
 
-
-
-### cgeniepy
+# Geosciences
+### 🟩 cgeniepy
 
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.06762/status.svg)](https://doi.org/10.21105/joss.06762)
 
@@ -15,7 +18,7 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ***
 # Thermodynamics
-### 🔘 CHNOSZ
+### 🟩 CHNOSZ
 
 [![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-blue.svg)](https://doi.org/10.3389/feart.2019.00180)
 
@@ -23,34 +26,34 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ### 🟩 pyCHNOSZ
 
-### DBCreate
+### 🟩 DBCreate
 
-### DEWPython
+### 🟩 DEWPython
 
-### EQ3/6
+### 🟩 EQ3/6
 
-### GWB
+### 🟩 GWB
 
-### PhreePlot
+### 🟩 PhreePlot
 
-### PHREEQC
+### 🟩 PHREEQC
 
-### tidyphreeqc
+### 🟩 tidyphreeqc
 
-### SupPHREEQC
+### 🟩 SupPHREEQC
 
-### PhreeqPy
+### 🟩 PhreeqPy
 
-### PHREESQL
+### 🟩 PHREESQL
 
-### PourPy
+### 🟩 PourPy
 
-### pyEQL
+### 🟩 pyEQL
 
-### pyGeochemCalc
+### 🟩 pyGeochemCalc
 
-### Reaktoro
+### 🟩 Reaktoro
 
-### SUPCRT92
+### 🟩 SUPCRT92
 
-### SUPCRTBL
+### 🟩 SUPCRTBL

@@ -1,5 +1,4 @@
-# awesome-geobiology
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Geobiology Modeling Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 

@@ -29,7 +29,7 @@ A curated list of awesome tools for Geobiology Modeling.
 # Geosciences
 ### 🟩 cgeniepy
 
-[![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06762-green.svg)](https://joss.theoj.org/papers/10.21105/joss.06762)
+[![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06762-brightgreen.svg)](https://joss.theoj.org/papers/10.21105/joss.06762)
 
 
 [`cgeniepy`](https://cgeniepy.readthedocs.io/en/latest/index.html#) is a Python package which provides a handful of tools in Python for dealing with the cGENIE model outputs, similar to the existing MATLAB scripts.
@@ -38,25 +38,25 @@ A curated list of awesome tools for Geobiology Modeling.
 # Thermodynamics
 ### 🟩 CHNOSZ
 
-[![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-green.svg)](https://doi.org/10.3389/feart.2019.00180)
+[![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-brightgreen.svg)](https://doi.org/10.3389/feart.2019.00180)
 
 [`CHNOSZ`](https://chnosz.net/)
 
 ### 🟩 pyCHNOSZ
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.11406142-green.svg)](https://doi.org/10.5281/zenodo.11406142)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.11406142-brightgreen.svg)](https://doi.org/10.5281/zenodo.11406142)
 
 [`pyCHNOSZ`](https://github.com/worm-portal/pyCHNOSZ/)
 
 
 ### 🟩 DBCreate
 
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2012.08.004-green.svg)](https://doi.org/10.1016/j.cageo.2012.08.004)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2012.08.004-brightgreen.svg)](https://doi.org/10.1016/j.cageo.2012.08.004)
 
 
 ### 🟩 DEWPython
 
-[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2105.14096-green.svg)](https://doi.org/10.48550/arXiv.2105.14096)
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2105.14096-brightgreen.svg)](https://doi.org/10.48550/arXiv.2105.14096)
 
 ### 🟩 EQ3/6
 
@@ -84,7 +84,7 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ### 🟩 SupPHREEQC
 
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2020.104560-green.svg)](https://doi.org/10.1016/j.cageo.2020.104560)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2020.104560-brightgreen.svg)](https://doi.org/10.1016/j.cageo.2020.104560)
 
 [`SupPHREEQC`](https://github.com/HydrogeoIU/SupPHREEQC)
 
@@ -102,7 +102,7 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ### 🟩 pyGeochemCalc
 
-[![DOI](https://img.shields.io/badge/DOI-10.1016/j.chemgeo.2022.120984-green.svg)](https://doi.org/10.1016/j.chemgeo.2022.120984)
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.chemgeo.2022.120984-brightgreen.svg)](https://doi.org/10.1016/j.chemgeo.2022.120984)
 
 [`pyGeochemCalc`](https://pygcc.readthedocs.io/en/latest/index.html)
 

@@ -26,4 +26,4 @@ A curated list of awesome tools for Geobiology Modeling.
 
 
 
-[![DOI](https://www.frontiersin.org/badge/DOI/10.3389/feart.2019.00180.svg)](https://doi.org/10.3389/feart.2019.00180)
+[![DOI](https://www.frontiersin.org/journals/earth-science/badge/DOI/10.3389/feart.2019.00180.svg)](https://doi.org/10.3389/feart.2019.00180)

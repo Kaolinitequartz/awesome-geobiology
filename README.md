@@ -16,4 +16,4 @@ A curated list of awesome tools for Geobiology Modeling.
 `CHNOSZ`
 
 
-[`CHNOSZ`](https://eff.org](https://chnosz.net/)
+[`CHNOSZ`](https://chnosz.net/)

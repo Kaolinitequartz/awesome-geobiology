@@ -47,6 +47,11 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ### 🟩 PhreePlot
 
+[![manual](https://img.shields.io/badge/manual-PhreePlot-blue.svg)](http://www.phreeplot.org/PhreePlot.pdf)
+
+
+[`PhreePlot`](http://phreeplot.org/)
+
 ### 🟩 PHREEQC
 
 ### 🟩 tidyphreeqc

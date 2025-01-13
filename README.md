@@ -55,16 +55,30 @@ A curated list of awesome tools for Geobiology Modeling.
 
 [![manual](https://img.shields.io/badge/manual-PhreePlot-orange.svg)](http://www.phreeplot.org/PhreePlot.pdf)
 
-
 [`PhreePlot`](http://phreeplot.org/)
 
 ### 🟩 PHREEQC
 
+[![manual](https://img.shields.io/badge/manual-PHREEQC-orange.svg)](https://pubs.usgs.gov/tm/06/a43/pdf/tm6-A43.pdf)
+
+[`PHREEQC`](https://www.usgs.gov/software/phreeqc-version-3)
+
 ### 🟩 tidyphreeqc
+
+
+[`tidyphreeqc`](https://github.com/paleolimbot/tidyphreeqc)
 
 ### 🟩 SupPHREEQC
 
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2020.104560-blue.svg)](https://doi.org/10.1016/j.cageo.2020.104560)
+
+[`SupPHREEQC`](https://github.com/HydrogeoIU/SupPHREEQC)
+
 ### 🟩 PhreeqPy
+
+[![manual](https://img.shields.io/badge/manual-PhreeqPy-orange.svg)](https://www.phreeqpy.com/phreeqpy.pdf)
+
+[`PhreeqPy`](https://github.com/hydrocomputing/phreeqpy/tree/main)
 
 ### 🟩 PHREESQL
 
@@ -73,6 +87,11 @@ A curated list of awesome tools for Geobiology Modeling.
 ### 🟩 pyEQL
 
 ### 🟩 pyGeochemCalc
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.chemgeo.2022.120984-blue.svg)](https://doi.org/10.1016/j.chemgeo.2022.120984)
+
+[`pyGeochemCalc`](https://pygcc.readthedocs.io/en/latest/index.html)
+
 
 ### 🟩 Reaktoro
 

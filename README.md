@@ -34,7 +34,12 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ### 🟩 DBCreate
 
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2012.08.004-blue.svg)](https://doi.org/10.1016/j.cageo.2012.08.004)
+
+
 ### 🟩 DEWPython
+
+[![DOI](https://img.shields.io/badge/DOI-10.48550/arXiv.2105.14096-blue.svg)](https://doi.org/10.48550/arXiv.2105.14096)
 
 ### 🟩 EQ3/6
 

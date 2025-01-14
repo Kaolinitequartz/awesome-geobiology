@@ -5,6 +5,7 @@
 
 # ⚡ Table of Contents
 [Geosciences](#geosciences)
+- [cGENIE](#-cgenie)
 - [cgeniepy](#-cgeniepy)
 
 [Thermodynamics](#thermodynamics)
@@ -27,7 +28,17 @@
 - [SUPCRT92](#-supcrt92)
 - [SUPCRTBL](#-supcrtbl)
 
+[Photochemical Model](#photochemical-model)
+- [Atmos](#-atmos)
+
+
+[Biogeochemical Model](#biogeochemical-model)
+
 # Geosciences
+
+### 🟩 cGENIE
+
+
 ### 🟩 cgeniepy
 
 [![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06762-blue.svg)](https://joss.theoj.org/papers/10.21105/joss.06762)
@@ -121,3 +132,14 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2016.02.013-blue.svg)](https://doi.org/10.1016/j.cageo.2016.02.013)
 
 [`SUPCRTBL`](https://geochemsim.org/supcrt-bl/)
+
+
+
+
+# Photochemical Model
+
+### 🟩 Atmos
+
+[`Atmos`](https://github.com/VirtualPlanetaryLaboratory/atmos)
+
+# Biogeochemical Model

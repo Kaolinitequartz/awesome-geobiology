@@ -1,7 +1,3 @@
-# Awesome Geobiology Modeling Tools
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 # <p align="center">Awesome Geobiology Modeling Tools</p>
 # <p align="center">[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</p>
 

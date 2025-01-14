@@ -109,6 +109,8 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ### 🟩 Reaktoro
 
+[`Reaktoro`](https://reaktoro.org/)
+
 ### 🟩 SUPCRT92
 
 ### 🟩 SUPCRTBL

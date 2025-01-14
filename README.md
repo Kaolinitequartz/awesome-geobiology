@@ -113,4 +113,13 @@ A curated list of awesome tools for Geobiology Modeling.
 
 ### 🟩 SUPCRT92
 
+[![DOI](https://img.shields.io/badge/DOI-10.1016/0098-3004(92)90029-Q-blue.svg)](https://doi.org/10.1016/0098-3004(92)90029-Q)
+
+[![manual](https://img.shields.io/badge/manual-SUPCRT92-orange.svg)](https://doi.org/10.1017/CBO9780511840258.023)
+
+
 ### 🟩 SUPCRTBL
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2016.02.013-blue.svg)](https://doi.org/10.1016/j.cageo.2016.02.013)
+
+[`SUPCRTBL`](https://geochemsim.org/supcrt-bl/)

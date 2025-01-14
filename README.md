@@ -1,9 +1,8 @@
 # <p align="center">Awesome Geobiology Modeling Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</p>
-# <p align="center">[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</p>
 
 A curated list of awesome tools for Geobiology Modeling.
 
-# Table of Contents
+# ⚡ Table of Contents
 [Geosciences](#geosciences)
 - [cgeniepy](#-cgeniepy)
 

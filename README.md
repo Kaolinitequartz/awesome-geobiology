@@ -33,6 +33,8 @@
 - [DASH](#-dash)
 
 [Biogeochemical Model](#biogeochemical-model)
+- [multi-G model](#-multi-g-model)
+
 
 [Python](#python)
 

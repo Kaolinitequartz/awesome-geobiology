@@ -34,6 +34,9 @@
 
 [Biogeochemical Model](#biogeochemical-model)
 
+[R](#r)
+- [deeptime](#-deeptime)
+
 # Geosciences
 
 ### 🟩 cGENIE

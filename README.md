@@ -7,6 +7,7 @@
 [Geosciences](#geosciences)
 - [cGENIE](#-cgenie)
 - [cgeniepy](#-cgeniepy)
+- [OMEN-SED](#-omen-sed)
 
 [Thermodynamics](#thermodynamics)
 - [CHNOSZ](#-chnosz)
@@ -35,7 +36,6 @@
 [Biogeochemical Model](#biogeochemical-model)
 - [multi-G model](#-multi-g-model)
 
-
 [Python](#python)
 
 [R](#r)
@@ -52,6 +52,12 @@
 
 
 [`cgeniepy`](https://cgeniepy.readthedocs.io/en/latest/index.html#) is a Python package which provides a handful of tools in Python for dealing with the cGENIE model outputs, similar to the existing MATLAB scripts.
+
+
+### 🟩 OMEN-SED
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--11--2649--2018-blue.svg)](https://doi.org/10.5194/gmd-11-2649-2018)
+
 
 ***
 # Thermodynamics

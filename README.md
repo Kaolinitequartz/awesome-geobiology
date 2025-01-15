@@ -155,6 +155,9 @@
 
 
 # Biogeochemical Model
+### 🟩 multi-G model
+
+[![DOI](https://img.shields.io/badge/DOI-10.1080/01490457809377721-blue.svg)](https://doi.org/10.1080/01490457809377721) [![DOI](https://img.shields.io/badge/DOI-10.1080/01490457809377722-blue.svg)](https://doi.org/10.1080/01490457809377722)
 
 # Python
 

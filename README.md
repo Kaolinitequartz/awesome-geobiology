@@ -144,7 +144,7 @@
 
 ### 🟩 DASH
 
-[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--16--5653--2023-blue.svg)](https://doi.org/10.5194/gmd-16-5653-2023)
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--16--5653--2023-blue.svg)](https://doi.org/10.5194/gmd-16-5653-2023) [![manual](https://img.shields.io/badge/manual-DASH-orange.svg)](https://jonking93.github.io/DASH/Tutorial/welcome.html)
 
 [`DASH`](https://github.com/JonKing93/DASH)
 

@@ -28,7 +28,7 @@
 - [SUPCRT92](#-supcrt92)
 - [SUPCRTBL](#-supcrtbl)
 
-[Photochemical Model](#photochemical-model)
+[Atmosphere](#atmosphere)
 - [Atmos](#-atmos)
 
 
@@ -136,10 +136,17 @@
 
 
 
-# Photochemical Model
+# Atmosphere
 
 ### 🟩 Atmos
 
 [`Atmos`](https://github.com/VirtualPlanetaryLaboratory/atmos)
+
+### 🟩 DASH
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd-16-5653-2023-blue.svg)](https://doi.org/10.5194/gmd-16-5653-2023)
+
+[`DASH`](https://github.com/JonKing93/DASH)
+
 
 # Biogeochemical Model

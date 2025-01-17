@@ -9,6 +9,8 @@
 - [cgeniepy](#-cgeniepy)
 - [OMEN-SED](#-omen-sed)
 - [CANOPS-GRB](#-canops-grb)
+- [CESM](#-cesm)
+- [CESM2](#-cesm2)
 
 [Thermodynamics](#thermodynamics)
 - [CHNOSZ](#-chnosz)
@@ -64,6 +66,16 @@
 ### 🟩 CANOPS-GRB
 
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--15--7593--2022-blue.svg)](https://doi.org/10.5194/gmd-15-7593-2022)
+
+
+### 🟩 CESM
+
+
+### 🟩 CESM2
+
+[![DOI](https://img.shields.io/badge/DOI-10.1029/2019MS001916-blue.svg)](https://doi.org/10.1029/2019MS001916)
+
+[`CESM2`](https://www.cesm.ucar.edu/models/cesm2)
 
 ***
 # Thermodynamics

@@ -8,6 +8,7 @@
 - [cGENIE](#-cgenie)
 - [cgeniepy](#-cgeniepy)
 - [OMEN-SED](#-omen-sed)
+- [CANOPS-GRB](#-canops-grb)
 
 [Thermodynamics](#thermodynamics)
 - [CHNOSZ](#-chnosz)

@@ -35,6 +35,8 @@
 
 [Biogeochemical Model](#biogeochemical-model)
 - [multi-G model](#-multi-g-model)
+- [PISCES](#-pisces)
+- [EONS](#-eons)
 
 [Python](#python)
 
@@ -58,6 +60,9 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--11--2649--2018-blue.svg)](https://doi.org/10.5194/gmd-11-2649-2018)
 
+### 🟩 CANOPS-GRB
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--15--7593--2022-blue.svg)](https://doi.org/10.5194/gmd-15-7593-2022)
 
 ***
 # Thermodynamics
@@ -146,7 +151,7 @@
 
 [`SUPCRTBL`](https://geochemsim.org/supcrt-bl/)
 
-
+***
 
 
 # Atmosphere
@@ -161,14 +166,29 @@
 
 [`DASH`](https://github.com/JonKing93/DASH)
 
+***
 
 # Biogeochemical Model
 ### 🟩 multi-G model
 
 [![DOI](https://img.shields.io/badge/DOI-10.1080/01490457809377721-blue.svg)](https://doi.org/10.1080/01490457809377721) [![DOI](https://img.shields.io/badge/DOI-10.1080/01490457809377722-blue.svg)](https://doi.org/10.1080/01490457809377722)
 
+### 🟩 PISCES
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--8--2465--2015-blue.svg)](https://doi.org/10.5194/gmd-8-2465-2015)
+
+### 🟩 EONS
+
+[![DOI](https://img.shields.io/badge/DOI-10.1029/2023GC011252-blue.svg)]( https://doi.org/10.1029/2023GC011252)
+
+[`EONS`](https://github.com/juliahorne/EONS)
+
+***
+
 # Python
 
+
+***
 
 # R
 ### 🟩 deeptime

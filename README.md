@@ -17,39 +17,39 @@
 - [CESM](#-cesm)
 - [CESM2](#-cesm2)
 
-- [Thermodynamics](#-thermodynamics)
-    - [CHNOSZ](#-chnosz)
-    - [pyCHNOSZ](#-pychnosz)
-    - [DBCreate](#-dbcreate)
-    - [DEWPython](#-dewpython)
-    - [EQ3/6](#-eq36)
-    - [GWB](#-gwb)
-    - [PHREEQC](#-phreeqc)
-    - [PhreePlot](#-phreeplot)
-    - [tidyphreeqc](#-tidyphreeqc)
-    - [SupPHREEQC](#-supphreeqc)
-    - [PhreeqPy](#-phreeqpy)
-    - [PHREESQL](#-phreesql)
-    - [PourPy](#-pourpy)
-    - [pyEQL](#-pyeql)
-    - [pyGeochemCalc](#-pygeochemcalc)
-    - [Reaktoro](#-reaktoro)
-    - [SUPCRT92](#-supcrt92)
-    - [SUPCRTBL](#-supcrtbl)
+[Thermodynamics](#thermodynamics)
+- [CHNOSZ](#-chnosz)
+- [pyCHNOSZ](#-pychnosz)
+- [DBCreate](#-dbcreate)
+- [DEWPython](#-dewpython)
+- [EQ3/6](#-eq36)
+- [GWB](#-gwb)
+- [PHREEQC](#-phreeqc)
+- [PhreePlot](#-phreeplot)
+- [tidyphreeqc](#-tidyphreeqc)
+- [SupPHREEQC](#-supphreeqc)
+- [PhreeqPy](#-phreeqpy)
+- [PHREESQL](#-phreesql)
+- [PourPy](#-pourpy)
+- [pyEQL](#-pyeql)
+- [pyGeochemCalc](#-pygeochemcalc)
+- [Reaktoro](#-reaktoro)
+- [SUPCRT92](#-supcrt92)
+- [SUPCRTBL](#-supcrtbl)
 
-- [Atmosphere](#-atmosphere)
-    - [Atmos](#-atmos)
-    - [DASH](#-dash)
+[Atmosphere](#atmosphere)
+- [Atmos](#-atmos)
+- [DASH](#-dash)
 
-- [Biogeochemical Model](#-biogeochemical--model)
-    - [multi-G model](#-multi-g-model)
-    - [PISCES](#-pisces)
-    - [EONS](#-eons)
+[Biogeochemical Model](#biogeochemical-model)
+- [multi-G model](#-multi-g-model)
+- [PISCES](#-pisces)
+- [EONS](#-eons)
 
-- [Python](#-python)
+[Python](#python)
 
-- [R](#-r--packages)
-    - [deeptime](#-deeptime)
+[R Packages](#r-packages)
+- [deeptime](#-deeptime)
 
 
 
@@ -213,7 +213,7 @@
 
 ***
 
-## R packages
+## R Packages
 #### 🟩 deeptime
 
 [![DOI](https://img.shields.io/badge/DOI-10.31223/X5841N-blue.svg)](https://doi.org/10.31223/X5841N) [![manual](https://img.shields.io/badge/manual-deeptime-orange.svg)](https://williamgearty.com/deeptime/index.html)

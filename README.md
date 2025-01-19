@@ -4,13 +4,17 @@
 
 
 # ⚡ Table of Contents
-[Geosciences](#geosciences)
-- [cGENIE](#-cgenie)
-- [cgeniepy](#-cgeniepy)
-- [OMEN-SED](#-omen-sed)
-- [CANOPS-GRB](#-canops-grb)
-- [CESM](#-cesm)
-- [CESM2](#-cesm2)
+
+
+
+[Modeling](#modeling)
+- [Geosciences](#-geosciences)
+    - [cGENIE](#-cgenie)
+    - [cgeniepy](#-cgeniepy)
+    - [OMEN-SED](#-omen-sed)
+    - [CANOPS-GRB](#-canops-grb)
+    - [CESM](#-cesm)
+    - [CESM2](#-cesm2)
 
 [Thermodynamics](#thermodynamics)
 - [CHNOSZ](#-chnosz)

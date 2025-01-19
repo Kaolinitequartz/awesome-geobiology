@@ -7,7 +7,7 @@
 
 
 
-# ⚡[Modeling](#modeling)
+⚡[Modeling](#modeling)
 
 [Geosciences](#geosciences)
 - [cGENIE](#-cgenie)

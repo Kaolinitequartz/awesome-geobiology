@@ -1,6 +1,6 @@
-# <p align="center">Awesome Geobiology Modeling Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</p>
+# <p align="center">Awesome Geo(micro)biology Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</p>
 
- <p align="center">A curated list of awesome tools for Geobiology Modeling.</p>
+ <p align="center">A curated list of awesome learning resources for Geo(micro)biology.</p>
 
 
 # ⚡ Table of Contents

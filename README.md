@@ -46,7 +46,12 @@
 [R](#r)
 - [deeptime](#-deeptime)
 
-# Geosciences
+
+
+# Modeling
+
+
+## Geosciences
 
 ### 🟩 cGENIE
 
@@ -78,7 +83,7 @@
 [`CESM2`](https://www.cesm.ucar.edu/models/cesm2)
 
 ***
-# Thermodynamics
+## Thermodynamics
 ### 🟩 CHNOSZ
 
 [![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-blue.svg)](https://doi.org/10.3389/feart.2019.00180)
@@ -167,7 +172,7 @@
 ***
 
 
-# Atmosphere
+## Atmosphere
 
 ### 🟩 Atmos
 
@@ -181,7 +186,7 @@
 
 ***
 
-# Biogeochemical Model
+## Biogeochemical Model
 ### 🟩 multi-G model
 
 [![DOI](https://img.shields.io/badge/DOI-10.1080/01490457809377721-blue.svg)](https://doi.org/10.1080/01490457809377721) [![DOI](https://img.shields.io/badge/DOI-10.1080/01490457809377722-blue.svg)](https://doi.org/10.1080/01490457809377722)
@@ -198,12 +203,12 @@
 
 ***
 
-# Python
+## Python
 
 
 ***
 
-# R
+## R
 ### 🟩 deeptime
 
 [![DOI](https://img.shields.io/badge/DOI-10.31223/X5841N-blue.svg)](https://doi.org/10.31223/X5841N) [![manual](https://img.shields.io/badge/manual-deeptime-orange.svg)](https://williamgearty.com/deeptime/index.html)

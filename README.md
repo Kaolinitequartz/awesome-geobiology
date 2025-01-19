@@ -40,14 +40,14 @@
     - [Atmos](#-atmos)
     - [DASH](#-dash)
 
-- [Biogeochemical Model](#-biogeochemical-model)
+- [Biogeochemical Model](#-biogeochemical--model)
     - [multi-G model](#-multi-g-model)
     - [PISCES](#-pisces)
     - [EONS](#-eons)
 
 - [Python](#-python)
 
-- [R](#-r-packages)
+- [R](#-r--packages)
     - [deeptime](#-deeptime)
 
 

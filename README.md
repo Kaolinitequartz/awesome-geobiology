@@ -8,7 +8,7 @@
 
 
 [Modeling](#modeling)
-- [Geosciences](#-geosciences)
+[Geosciences](#geosciences)
     - [cGENIE](#-cgenie)
     - [cgeniepy](#-cgeniepy)
     - [OMEN-SED](#-omen-sed)

@@ -47,7 +47,7 @@
 
 - [Python](#-python)
 
-- [R](#-r)
+- [R](#-r-packages)
     - [deeptime](#-deeptime)
 
 
@@ -212,7 +212,7 @@
 
 ***
 
-## R
+## R packages
 #### 🟩 deeptime
 
 [![DOI](https://img.shields.io/badge/DOI-10.31223/X5841N-blue.svg)](https://doi.org/10.31223/X5841N) [![manual](https://img.shields.io/badge/manual-deeptime-orange.svg)](https://williamgearty.com/deeptime/index.html)

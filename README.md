@@ -53,10 +53,10 @@
 
 ## Geosciences
 
-### 🟩 cGENIE
+#### 🟩 cGENIE
 
 
-### 🟩 cgeniepy
+#### 🟩 cgeniepy
 
 [![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06762-blue.svg)](https://joss.theoj.org/papers/10.21105/joss.06762)
 

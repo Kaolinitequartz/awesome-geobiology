@@ -1,4 +1,4 @@
-# <p align="center">Awesome Geo(micro)biology Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</p>
+# <p align="center">Awesome Geo(micro)Biology Learning Resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</p>
 
  <p align="center">A curated list of awesome learning resources for Geo(micro)biology.</p>
 

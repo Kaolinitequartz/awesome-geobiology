@@ -10,7 +10,7 @@
 ⚡[Modeling](#modeling)
 
 [Geosciences](#geosciences)
-- [cGENIE](#cgenie)
+- [cGENIE](#-cgenie)
 - [cgeniepy](#-cgeniepy)
 - [OMEN-SED](#-omen-sed)
 - [CANOPS-GRB](#-canops-grb)

@@ -7,7 +7,7 @@
 
 
 
-⚡[Modeling](#modeling)
+[Modeling](#modeling)
 
 [Geosciences](#geosciences)
 - [cGENIE](#-cgenie)
@@ -45,6 +45,7 @@
 - [multi-G model](#-multi-g-model)
 - [PISCES](#-pisces)
 - [EONS](#-eons)
+- [AWESOME OCIM](#-awesome-ocim)
 
 [Python](#python)
 
@@ -54,8 +55,6 @@
 
 
 # Modeling
-
-
 ## Geosciences
 
 #### 🟩 cGENIE
@@ -202,9 +201,15 @@
 
 #### 🟩 EONS
 
-[![DOI](https://img.shields.io/badge/DOI-10.1029/2023GC011252-blue.svg)]( https://doi.org/10.1029/2023GC011252)
+[![DOI](https://img.shields.io/badge/DOI-10.1029/2023GC011252-blue.svg)](https://doi.org/10.1029/2023GC011252)
 
 [`EONS`](https://github.com/juliahorne/EONS)
+
+#### 🟩 AWESOME OCIM
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016/j.chemgeo.2019.119403-blue.svg)](https://doi.org/10.1016/j.chemgeo.2019.119403)
+
+[`AWESOME OCIM`](https://github.com/MTEL-USC/AWESOME-OCIM)
 
 ***
 

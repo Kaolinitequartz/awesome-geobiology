@@ -72,7 +72,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--11--2649--2018-blue.svg)](https://doi.org/10.5194/gmd-11-2649-2018)
 
-`OMEN-SED` (Organic Matter ENabled SEDiment model) is a new, one-dimensional analytical early diagenetic model resolving organic matter cycling and the associated biogeochemical dynamics in marine sediments designed to be coupled to Earth system models.
+[`OMEN-SED`](https://github.com/DomHu/OMEN-SED) (Organic Matter ENabled SEDiment model) is a new, one-dimensional analytical early diagenetic model resolving organic matter cycling and the associated biogeochemical dynamics in marine sediments designed to be coupled to Earth system models.
 
 #### 🟩 CANOPS-GRB
 

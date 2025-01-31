@@ -209,7 +209,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.chemgeo.2019.119403-blue.svg)](https://doi.org/10.1016/j.chemgeo.2019.119403)
 
-[`AWESOME OCIM`](https://github.com/MTEL-USC/AWESOME-OCIM)
+[`AWESOME OCIM`](https://github.com/MTEL-USC/AWESOME-OCIM) is a new flexible modeling tool for simulating the distribution of tracers in the modern ocean. The `AWESOME OCIM` uses Ocean Circulation Inverse Model (OCIM) transport for realistic global 3d circulation. Within this circulation, broad features of the distribution of many marine TEIs can be achieved by combining just a few processes.
 
 ***
 

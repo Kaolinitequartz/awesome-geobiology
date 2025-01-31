@@ -14,6 +14,7 @@
 - [cgeniepy](#-cgeniepy)
 - [OMEN-SED](#-omen-sed)
 - [CANOPS-GRB](#-canops-grb)
+- [NorESM](#-noresm)
 - [CESM](#-cesm)
 - [CESM2](#-cesm2)
 
@@ -67,15 +68,22 @@
 
 [`cgeniepy`](https://cgeniepy.readthedocs.io/en/latest/index.html#) is a Python package which provides a handful of tools in Python for dealing with the cGENIE model outputs, similar to the existing MATLAB scripts.
 
-
 #### 🟩 OMEN-SED
 
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--11--2649--2018-blue.svg)](https://doi.org/10.5194/gmd-11-2649-2018)
+
+`OMEN-SED` (Organic Matter ENabled SEDiment model) is a new, one-dimensional analytical early diagenetic model resolving organic matter cycling and the associated biogeochemical dynamics in marine sediments designed to be coupled to Earth system models.
 
 #### 🟩 CANOPS-GRB
 
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--15--7593--2022-blue.svg)](https://doi.org/10.5194/gmd-15-7593-2022)
 
+
+#### 🟩 NorESM
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--6--301--2013-blue.svg)](https://doi.org/10.5194/gmd-6-301-2013)
+
+[`NorESM`](https://www.noresm.org/)
 
 #### 🟩 CESM
 

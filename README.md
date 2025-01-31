@@ -100,7 +100,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.3389/feart.2019.00180-blue.svg)](https://doi.org/10.3389/feart.2019.00180)
 
-[`CHNOSZ`](https://chnosz.net/) is an R package which provides an integrated set of tools for thermodynamic calculations in aqueous geochemistry and geobiochemistry. It has functions for writing balanced reactions to form species from user-selected basis species and for calculating the standard molal properties of species and reactions, including the standard Gibbs energy and equilibrium constant.
+[`CHNOSZ`](https://chnosz.net/) is an R package developed by Jeffrey M. Dick. It provides an integrated set of tools for thermodynamic calculations in aqueous geochemistry and geobiochemistry. It has functions for writing balanced reactions to form species from user-selected basis species and for calculating the standard molal properties of species and reactions, including the standard Gibbs energy and equilibrium constant.
 
 #### 🟩 pyCHNOSZ
 

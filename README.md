@@ -106,12 +106,14 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.11406142-blue.svg)](https://doi.org/10.5281/zenodo.11406142)
 
-[`pyCHNOSZ`](https://github.com/worm-portal/pyCHNOSZ/)
+[`pyCHNOSZ`](https://github.com/worm-portal/pyCHNOSZ/) is a Python 3 package that wraps the functionality of the package CHNOSZ for R. Perform thermodynamic calculations for aqueous geochemistry and biogeochemistry.
 
 
 #### 🟩 DBCreate
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2012.08.004-blue.svg)](https://doi.org/10.1016/j.cageo.2012.08.004)
+
+[`DBCreate`] is a SUPCRT92-based software program written in FORTRAN90/95 which can rapidly (order of magnitude of minutes) produces geochemical databases at user-defined T and P. The software works with existing thermodynamic database software; specifically Geochemist Work Bench, ToughReact, and EQ3/6. Users enter temperatures and pressures and DBCreate creates the SUPCTR92 formatted reaction (RXN) files and the user-required object database.
 
 
 #### 🟩 DEWPython

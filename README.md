@@ -167,6 +167,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.chemgeo.2022.120984-blue.svg)](https://doi.org/10.1016/j.chemgeo.2022.120984)
 
 [`pyGeochemCalc`](https://pygcc.readthedocs.io/en/latest/index.html) (pygcc) is a python-based program for thermodynamic calculations and producing the Geochemist’s Workbench (GWB), EQ3/6, TOUGHREACT, and PFLOTRAN thermodynamic database from ambient to deep Earth temperature and pressure conditions.
+This community-driven, open-source Python package incorporates existing and newly implemented functions for calculating the thermodynamic properties of gas, aqueous, and mineral species, as well as reactions amongst these species, over a broad range of temperature and pressure conditions.
 
 #### 🟩 Reaktoro
 

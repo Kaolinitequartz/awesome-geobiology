@@ -15,6 +15,7 @@
 - [OMEN-SED](#-omen-sed)
 - [CANOPS-GRB](#-canops-grb)
 - [NorESM](#-noresm)
+- [NorESM2](#-noresm2)
 - [CESM](#-cesm)
 - [CESM2](#-cesm2)
 
@@ -84,6 +85,12 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--6--301--2013-blue.svg)](https://doi.org/10.5194/gmd-6-301-2013)
 
 [`NorESM`](https://www.noresm.org/)
+
+#### 🟩 NorESM2
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--13--6165--2020-blue.svg)](https://doi.org/10.5194/gmd-13-6165-2020)
+
+[`NorESM2`](https://www.noresm.org/)
 
 #### 🟩 CESM
 

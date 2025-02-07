@@ -94,6 +94,9 @@
 
 #### 🟩 CESM
 
+[![DOI](https://img.shields.io/badge/DOI-10.1175/BAMS--D--12--00121.1-blue.svg)](https://doi.org/10.1175/BAMS-D-12-00121.1)
+
+[`CESM`](https://www.cesm.ucar.edu/) is an open‐source, comprehensive model used in simulations of the Earth's past, present, and future climates.
 
 #### 🟩 CESM2
 

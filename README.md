@@ -171,7 +171,8 @@ This community-driven, open-source Python package incorporates existing and newl
 
 #### 🟩 Reaktoro
 
-[`Reaktoro`](https://reaktoro.org/)
+[`Reaktoro`](https://reaktoro.org/) has been designed from the ground up to be a flexible and extensible computational modeling framework for simulating chemical reactions. Reaktoro’s algorithms for chemical equilibrium and chemical kinetics calculations can be applied in a wide variety of modeling applications, from geochemical modeling of water-gas-rock systems to modeling the combustion of energetic materials.
+
 
 #### 🟩 SUPCRT92
 

@@ -113,7 +113,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2012.08.004-blue.svg)](https://doi.org/10.1016/j.cageo.2012.08.004)
 
-[`DBCreate`] is a SUPCRT92-based software program written in FORTRAN90/95 which can rapidly (order of magnitude of minutes) produces geochemical databases at user-defined T and P. The software works with existing thermodynamic database software; specifically Geochemist Work Bench, ToughReact, and EQ3/6. Users enter temperatures and pressures and DBCreate creates the SUPCTR92 formatted reaction (RXN) files and the user-required object database.
+`DBCreate` is a SUPCRT92-based software program written in FORTRAN90/95 which can rapidly (order of magnitude of minutes) produces geochemical databases at user-defined T and P. The software works with existing thermodynamic database software; specifically Geochemist Work Bench, ToughReact, and EQ3/6. Users enter temperatures and pressures and DBCreate creates the SUPCTR92 formatted reaction (RXN) files and the user-required object database.
 
 
 #### 🟩 DEWPython

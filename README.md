@@ -195,6 +195,8 @@ This community-driven, open-source Python package incorporates existing and newl
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/0098--3004(92)90029--Q-blue.svg)](https://doi.org/10.1016/0098-3004(92)90029-Q) [![manual](https://img.shields.io/badge/manual-SUPCRT92-orange.svg)](https://doi.org/10.1017/CBO9780511840258.023)
 
+`SUPCRT92` is a FORTRAN program written originally by students and associates of Prof. H.C. Helgeson at the University of California, Berkeley. Anyone can use it, free of charge. It uses a large database of minerals, gases, and aqueous species in which most of the mineral data are from [Helgeson et al. (1978)](https://doi.org/10.1016/0098-3004(92)90029-Q), known as HDNB, which was the first large-scale attempt at obtaining internally consistent data for minerals by including phase equilibrium data as well as calorimetric and other sources.  It uses the Maier–Kelley heat capacity formulation for minerals, and the revised HKF model for aqueous solutes. It will produce thermodynamic properties to 1000 °C and 5000 bars.
+
 #### 🟩 SUPCRTBL
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2016.02.013-blue.svg)](https://doi.org/10.1016/j.cageo.2016.02.013)

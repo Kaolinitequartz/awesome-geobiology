@@ -104,6 +104,12 @@
 
 [`CESM2`](https://www.cesm.ucar.edu/models/cesm2)
 
+#### 🟩 PISCES
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--8--2465--2015-blue.svg)](https://doi.org/10.5194/gmd-8-2465-2015)
+
+[`PISCES`](https://www.pisces-community.org/)
+
 ***
 ## Thermodynamics
 #### 🟩 CHNOSZ

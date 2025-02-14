@@ -190,6 +190,11 @@
 
 #### 🟩 pyEQL
 
+[![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06295-blue.svg)](https://doi.org/10.21105/joss.06295) [![manual](https://img.shields.io/badge/manual-pyEQL-orange.svg)](https://pyeql.readthedocs.io/en/latest/index.html)
+
+[`pyEQL`](https://github.com/KingsburyLab/pyEQL/) 
+
+
 #### 🟩 pyGeochemCalc
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.chemgeo.2022.120984-blue.svg)](https://doi.org/10.1016/j.chemgeo.2022.120984)

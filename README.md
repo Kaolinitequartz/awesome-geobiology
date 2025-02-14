@@ -182,6 +182,12 @@
 
 #### 🟩 PourPy
 
+[![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06536-blue.svg)](https://doi.org/10.21105/joss.06536)
+
+[`PourPy`](https://pourbaix-diagrams.readthedocs.io/en/latest/index.html) is an open-source Python package for generating thermodynamic stability diagrams of solid phases and complexes in aqueous electrolytes. PourPy is a tool enabling users to inspect the reactivity of aqueous systems under full control of all chemical species considered.
+
+
+
 #### 🟩 pyEQL
 
 #### 🟩 pyGeochemCalc

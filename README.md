@@ -177,7 +177,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2024.105640-blue.svg)](https://doi.org/10.1016/j.cageo.2024.105640)
 
-[`PHREESQL`](hhttps://danielacabiddu.github.io/PHREESQL/index.html) is a toolkit for efficiently storing and managing the huge amount of data coming from geochemical speciation computation run by PHREEQC.
+[`PHREESQL`](https://danielacabiddu.github.io/PHREESQL/index.html) is a toolkit for efficiently storing and managing the huge amount of data coming from geochemical speciation computation run by PHREEQC.
 
 
 #### 🟩 PourPy

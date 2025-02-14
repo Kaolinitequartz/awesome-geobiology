@@ -148,7 +148,7 @@
 
 [![manual](https://img.shields.io/badge/manual-PHREEQC-orange.svg)](https://pubs.usgs.gov/tm/06/a43/pdf/tm6-A43.pdf)
 
-[`PHREEQC`](https://www.usgs.gov/software/phreeqc-version-3)
+[`PHREEQC`](https://www.usgs.gov/software/phreeqc-version-3) Version 3 is a computer program written in the C++ programming language that is designed to perform a wide variety of aqueous geochemical calculations. PHREEQC implements several types of aqueous models including two ion-association aqueous models.
 
 #### 🟩 PhreePlot
 

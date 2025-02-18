@@ -55,6 +55,11 @@
 [R Packages](#r-packages)
 - [deeptime](#-deeptime)
 
+[Databases](#databases)
+
+[Minerals](#minerals)
+- [OpenMindat](#-openmindat)
+
 
 
 # Modeling
@@ -270,3 +275,10 @@ This community-driven, open-source Python package incorporates existing and newl
 [![DOI](https://img.shields.io/badge/DOI-10.31223/X5841N-blue.svg)](https://doi.org/10.31223/X5841N) [![manual](https://img.shields.io/badge/manual-deeptime-orange.svg)](https://williamgearty.com/deeptime/index.html)
 
 [`deeptime`](https://github.com/willgearty/deeptime)
+
+
+# Databases
+## Minerals
+#### 🟩 OpenMindat
+
+[`OpenMindat`](https://github.com/quexiang/OpenMindat) is an R package for querying and accessing open data from the Mindat API.

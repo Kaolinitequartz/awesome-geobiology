@@ -287,4 +287,4 @@ This community-driven, open-source Python package incorporates existing and newl
 
 ## Geochemistry
 #### 🟩 DM-SED
-
+[![DOI](https://img.shields.io/badge/DOI-10.5194/essd--17--1613--2025-blue.svg)](https://doi.org/10.5194/essd-17-1613-2025)

@@ -59,7 +59,7 @@
 
 [Minerals](#minerals)
 - [OpenMindat](#-openmindat)
-
+[Geochemistry](#geochemistry)
 
 
 # Modeling
@@ -287,4 +287,6 @@ This community-driven, open-source Python package incorporates existing and newl
 
 ## Geochemistry
 #### 🟩 DM-SED
-[![DOI](https://img.shields.io/badge/DOI-10.5194/essd--17--1613--2025-blue.svg)](https://doi.org/10.5194/essd-17-1613-2025)
+[![DOI](https://img.shields.io/badge/DOI-10.5194/essd--17--1613--2025-blue.svg)](https://doi.org/10.5194/essd-17-1613-2025)[![Data](https://img.shields.io/badge/Data-DM--SED-orange.svg)](https://zenodo.org/records/14771859)
+
+[`DM-SED`] (Deep-Time Marine Sedimentary Element Database) aims to collect geochemical data from deep-time marine sediments. The database is primarily sourced from the SGP database and supplemented with 34,874 additional newly compiled entries.

@@ -281,3 +281,10 @@ This community-driven, open-source Python package incorporates existing and newl
 #### 🟩 OpenMindat
 
 [`OpenMindat`](https://github.com/quexiang/OpenMindat) is an R package for querying and accessing open data from the Mindat API.
+
+
+
+
+## Geochemistry
+#### 🟩 DM-SED
+

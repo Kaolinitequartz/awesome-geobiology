@@ -222,8 +222,7 @@ This community-driven, open-source Python package incorporates existing and newl
 
 [![DOI](https://img.shields.io/badge/DOI-10.1016/j.cageo.2016.02.013-blue.svg)](https://doi.org/10.1016/j.cageo.2016.02.013)
 
-[`SUPCRTBL`](https://geochemsim.org/supcrt-bl/)
-
+[`SUPCRTBL`](https://geochemsim.org/supcrt-bl/) is a revised and extended thermodynamic dataset and software package of SUPCRT92 because new data on the thermodynamic properties of both aqueous species and minerals have become available since the database’s initial release in 1992 and its subsequent updates.
 ***
 
 

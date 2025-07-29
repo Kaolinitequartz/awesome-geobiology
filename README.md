@@ -116,7 +116,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--8--2465--2015-blue.svg)](https://doi.org/10.5194/gmd-8-2465-2015)
 
-[`PISCES`](https://www.pisces-community.org/)
+[`PISCES`](https://www.pisces-community.org/) is a biogeochemical model that simulates marine biological productivity and describes the biogeochemical cycles of carbon, oxygen and of the main nutrients (P, N, Si, Fe). It is the marine biogeochemistry component of two ocean modeling platforms (NEMO and CROCO), three Earth System models (IPSL-CM, CNRM-CM and EC-Earth) and one operational oceanographic system (MERCATOR-Ocean).
 
 ***
 ## Thermodynamics

@@ -98,7 +98,7 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--13--6165--2020-blue.svg)](https://doi.org/10.5194/gmd-13-6165-2020)
 
-[`NorESM2`](https://www.noresm.org/)
+[`NorESM2`](https://www.noresm.org/) (Norwegian Earth System Model version 2) is an coupled Earth System Model developed by the NorESM Climate modeling Consortium (NCC). NorESM2 is based on the second version of the Community Earth System Model, CESM2 (https://www.cesm.ucar.edu/models/cesm2), developed and operated at the National Center for Atmospheric Research (NCAR), Boulder, US.
 
 #### 🟩 CESM
 

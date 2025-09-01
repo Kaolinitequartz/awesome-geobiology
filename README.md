@@ -21,6 +21,8 @@
 - [PISCES](#-pisces)
 
 [Thermodynamics](#thermodynamics)
+- [SUPCRT92](#-supcrt92)
+- [SUPCRTBL](#-supcrtbl)
 - [CHNOSZ](#-chnosz)
 - [pyCHNOSZ](#-pychnosz)
 - [DBCreate](#-dbcreate)
@@ -37,8 +39,6 @@
 - [pyEQL](#-pyeql)
 - [pyGeochemCalc](#-pygeochemcalc)
 - [Reaktoro](#-reaktoro)
-- [SUPCRT92](#-supcrt92)
-- [SUPCRTBL](#-supcrtbl)
 
 [Atmosphere](#atmosphere)
 - [Atmos](#-atmos)

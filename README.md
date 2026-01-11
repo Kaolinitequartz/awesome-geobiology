@@ -9,17 +9,6 @@
 
 [Modeling](#modeling)
 
-[Geosciences](#geosciences)
-- [cGENIE](#-cgenie)
-- [cgeniepy](#-cgeniepy)
-- [OMEN-SED](#-omen-sed)
-- [CANOPS-GRB](#-canops-grb)
-- [NorESM](#-noresm)
-- [NorESM2](#-noresm2)
-- [CESM](#-cesm)
-- [CESM2](#-cesm2)
-- [PISCES](#-pisces)
-
 [Thermodynamics](#thermodynamics)
 - [SUPCRT92](#-supcrt92)
 - [SUPCRTBL](#-supcrtbl)
@@ -39,6 +28,17 @@
 - [pyEQL](#-pyeql)
 - [pyGeochemCalc](#-pygeochemcalc)
 - [Reaktoro](#-reaktoro)
+
+[Geosciences](#geosciences)
+- [cGENIE](#-cgenie)
+- [cgeniepy](#-cgeniepy)
+- [OMEN-SED](#-omen-sed)
+- [CANOPS-GRB](#-canops-grb)
+- [NorESM](#-noresm)
+- [NorESM2](#-noresm2)
+- [CESM](#-cesm)
+- [CESM2](#-cesm2)
+- [PISCES](#-pisces)
 
 [Atmosphere](#atmosphere)
 - [Atmos](#-atmos)
@@ -65,60 +65,6 @@
 
 
 # Modeling
-## Geosciences
-
-#### 🟩 cGENIE
-
-
-#### 🟩 cgeniepy
-
-[![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06762-blue.svg)](https://joss.theoj.org/papers/10.21105/joss.06762)
-
-
-[`cgeniepy`](https://cgeniepy.readthedocs.io/en/latest/index.html#) is a Python package which provides a handful of tools in Python for dealing with the cGENIE model outputs, similar to the existing MATLAB scripts.
-
-#### 🟩 OMEN-SED
-
-[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--11--2649--2018-blue.svg)](https://doi.org/10.5194/gmd-11-2649-2018)
-
-[`OMEN-SED`](https://github.com/DomHu/OMEN-SED) (Organic Matter ENabled SEDiment model) is a new, one-dimensional analytical early diagenetic model resolving organic matter cycling and the associated biogeochemical dynamics in marine sediments designed to be coupled to Earth system models.
-
-#### 🟩 CANOPS-GRB
-
-[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--15--7593--2022-blue.svg)](https://doi.org/10.5194/gmd-15-7593-2022)
-
-
-#### 🟩 NorESM
-
-[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--6--301--2013-blue.svg)](https://doi.org/10.5194/gmd-6-301-2013)
-
-[`NorESM`](https://www.noresm.org/)
-
-#### 🟩 NorESM2
-
-[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--13--6165--2020-blue.svg)](https://doi.org/10.5194/gmd-13-6165-2020)
-
-[`NorESM2`](https://www.noresm.org/) (Norwegian Earth System Model version 2) is an coupled Earth System Model developed by the NorESM Climate modeling Consortium (NCC). NorESM2 is based on the second version of the Community Earth System Model, CESM2, developed and operated at the National Center for Atmospheric Research (NCAR), Boulder, US.
-
-#### 🟩 CESM
-
-[![DOI](https://img.shields.io/badge/DOI-10.1175/BAMS--D--12--00121.1-blue.svg)](https://doi.org/10.1175/BAMS-D-12-00121.1)
-
-[`CESM`](https://www.cesm.ucar.edu/) is an open‐source, comprehensive model used in simulations of the Earth's past, present, and future climates.
-
-#### 🟩 CESM2
-
-[![DOI](https://img.shields.io/badge/DOI-10.1029/2019MS001916-blue.svg)](https://doi.org/10.1029/2019MS001916)
-
-[`CESM2`](https://www.cesm.ucar.edu/models/cesm2)
-
-#### 🟩 PISCES
-
-[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--8--2465--2015-blue.svg)](https://doi.org/10.5194/gmd-8-2465-2015)
-
-[`PISCES`](https://www.pisces-community.org/) is a biogeochemical model that simulates marine biological productivity and describes the biogeochemical cycles of carbon, oxygen and of the main nutrients (P, N, Si, Fe). It is the marine biogeochemistry component of two ocean modeling platforms (NEMO and CROCO), three Earth System models (IPSL-CM, CNRM-CM and EC-Earth) and one operational oceanographic system (MERCATOR-Ocean).
-
-***
 ## Thermodynamics
 
 #### 🟩 SUPCRT92
@@ -227,9 +173,62 @@ This community-driven, open-source Python package incorporates existing and newl
 
 [`Reaktoro`](https://reaktoro.org/) has been designed from the ground up to be a flexible and extensible computational modeling framework for simulating chemical reactions. Reaktoro’s algorithms for chemical equilibrium and chemical kinetics calculations can be applied in a wide variety of modeling applications, from geochemical modeling of water-gas-rock systems to modeling the combustion of energetic materials.
 
-
 ***
 
+## Geosciences
+
+#### 🟩 cGENIE
+
+
+#### 🟩 cgeniepy
+
+[![DOI](https://img.shields.io/badge/DOI-10.21105/joss.06762-blue.svg)](https://joss.theoj.org/papers/10.21105/joss.06762)
+
+
+[`cgeniepy`](https://cgeniepy.readthedocs.io/en/latest/index.html#) is a Python package which provides a handful of tools in Python for dealing with the cGENIE model outputs, similar to the existing MATLAB scripts.
+
+#### 🟩 OMEN-SED
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--11--2649--2018-blue.svg)](https://doi.org/10.5194/gmd-11-2649-2018)
+
+[`OMEN-SED`](https://github.com/DomHu/OMEN-SED) (Organic Matter ENabled SEDiment model) is a new, one-dimensional analytical early diagenetic model resolving organic matter cycling and the associated biogeochemical dynamics in marine sediments designed to be coupled to Earth system models.
+
+#### 🟩 CANOPS-GRB
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--15--7593--2022-blue.svg)](https://doi.org/10.5194/gmd-15-7593-2022)
+
+
+#### 🟩 NorESM
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--6--301--2013-blue.svg)](https://doi.org/10.5194/gmd-6-301-2013)
+
+[`NorESM`](https://www.noresm.org/)
+
+#### 🟩 NorESM2
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--13--6165--2020-blue.svg)](https://doi.org/10.5194/gmd-13-6165-2020)
+
+[`NorESM2`](https://www.noresm.org/) (Norwegian Earth System Model version 2) is an coupled Earth System Model developed by the NorESM Climate modeling Consortium (NCC). NorESM2 is based on the second version of the Community Earth System Model, CESM2, developed and operated at the National Center for Atmospheric Research (NCAR), Boulder, US.
+
+#### 🟩 CESM
+
+[![DOI](https://img.shields.io/badge/DOI-10.1175/BAMS--D--12--00121.1-blue.svg)](https://doi.org/10.1175/BAMS-D-12-00121.1)
+
+[`CESM`](https://www.cesm.ucar.edu/) is an open‐source, comprehensive model used in simulations of the Earth's past, present, and future climates.
+
+#### 🟩 CESM2
+
+[![DOI](https://img.shields.io/badge/DOI-10.1029/2019MS001916-blue.svg)](https://doi.org/10.1029/2019MS001916)
+
+[`CESM2`](https://www.cesm.ucar.edu/models/cesm2)
+
+#### 🟩 PISCES
+
+[![DOI](https://img.shields.io/badge/DOI-10.5194/gmd--8--2465--2015-blue.svg)](https://doi.org/10.5194/gmd-8-2465-2015)
+
+[`PISCES`](https://www.pisces-community.org/) is a biogeochemical model that simulates marine biological productivity and describes the biogeochemical cycles of carbon, oxygen and of the main nutrients (P, N, Si, Fe). It is the marine biogeochemistry component of two ocean modeling platforms (NEMO and CROCO), three Earth System models (IPSL-CM, CNRM-CM and EC-Earth) and one operational oceanographic system (MERCATOR-Ocean).
+
+***
 
 ## Atmosphere
 
